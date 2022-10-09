@@ -1,0 +1,31 @@
+body{
+    background-color:#FFF7E9;
+}
+header, section{
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+    margin:5px;
+    font-size:18px;
+}
+
+ul, ol{
+    list-style-position: inside;
+}
+
+img{
+    width:400px;
+    height:250px;
+}
+
+h1{
+    color:#5F9DF7;
+    font-size: 34px;
+}
+
+h2,h3,h4,h5{
+    color:#FF731D;
+    font-size: 26px;
+}
